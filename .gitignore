@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# testing
+videos/
+cypress/downloads/
+temp
+
+# misc
+!bin
+dist
+npm-debug.log
+.idea
+_temp*
+.env
+desktop.ini
+
+cache

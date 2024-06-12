@@ -1,0 +1,24 @@
+{
+  "standard_user": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "checkoutInformation": {
+      "firstName": "Thomas",
+      "lastName": "Pacher",
+      "zipCode": "2222"
+    },
+    "paymentInformation": "SauceCard #31337",
+    "shippingInformation": "Free Pony Express Delivery!"
+  },
+  "locked_out_user": {
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "checkoutInformation": {
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "zipCode": "1010"
+    },
+    "paymentInformation": "SauceCard #31337",
+    "shippingInformation": "Free Pony Express Delivery!"
+  }
+}
