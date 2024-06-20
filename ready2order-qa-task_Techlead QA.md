@@ -14,7 +14,8 @@ Please do not spend more than 3 hours on this task. We know that take-home tasks
 ******************************************************************************************************************************************************************
 
 I would start testing the app by the business relevant scenarios. My priority is the following:
-	1. Login/Logout tests
+	
+ 	1. Login/Logout tests
 		- Positive and negative tests with different users (if app has different user roles or in this case with the provided usernames causing different errors in the app)
 	2. Checkout process
 		
